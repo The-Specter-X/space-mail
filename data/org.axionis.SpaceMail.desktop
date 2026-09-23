@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Space Mail
+Comment=Local-first desktop mail
+Exec=space-mail
+Icon=mail-client
+Terminal=false
+Categories=Network;Email;GTK;
