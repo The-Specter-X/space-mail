@@ -1,0 +1,4 @@
+/build/
+/.apt-cache/
+*.o
+*.swp
